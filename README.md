@@ -2,7 +2,7 @@
 Create a Python program that can encrypt and decrypt text using the Ceaser Cipher algorithm.<br>
 Allow users to input a message and a shift value to perform encryption and decryption.<br>
 
-# The Caesar cipher is a substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
+## The Caesar cipher is a substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
 For example:
 
